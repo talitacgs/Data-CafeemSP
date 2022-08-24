@@ -30,12 +30,10 @@ Entretanto para a variável `producao_total_trigo`, a % de valores NA foi de 20%
 
 Como os dados faltantes se concentram no censo de 1996, e para fins de diminuir a complexidade de análise, optou-se por preencher os demais com a média do respectivo ano e não trabalhar com os dados de produção de trigo de 1996, pois as aproximações poderiam gerar uma tendência equivocada dos resultados.
 
-Por fim, gerou-se o gráfico da produção de café registrado nos censos de 1985, 1996, 2006 e 2017 que demonstra uma expressiva queda na produção. Estima-se que o valor da produção de 2017 é cerca de 12% da produção de 1985. Isso deve-se ao fato de que o Estado, ao longo dos anos, deve ter mudado sua estratégia de produção, inserindo novas monoculturas. Dentre as monoculturas analisadas (café, arroz, feijão, milho, mandioca, soja, algodão, cana e trigo) a mandioca é o maior produto agrícola produzido com cerca de 78.0 % de participação.
+Por fim, gerou-se o gráfico da produção de café registrado nos censos de 1985, 1996, 2006 e 2017 que demonstra uma expressiva queda na produção. 
+
+<div align=center><img src="prod-cafe-sp.png" alt="produção de cafe no estado de SP" ></div>
 
 
-
-
-
-
-
+Estima-se que o valor da produção de 2017 é cerca de 12% da produção de 1985. Isso deve-se ao fato de que o Estado, ao longo dos anos, deve ter mudado sua estratégia de produção, inserindo novas monoculturas. Dentre as monoculturas analisadas (café, arroz, feijão, milho, mandioca, soja, algodão, cana e trigo) a mandioca é o maior produto agrícola produzido com cerca de 78.0 % de participação.
 
